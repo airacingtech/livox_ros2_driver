@@ -1,7 +1,7 @@
 {
     "lidar_config": [
         {
-            "broadcast_code": "1HDDH1200100591",
+            "broadcast_code": "3JEDK390019Q271",
             "enable_connect": false,
             "enable_fan": true,
             "return_mode": 0,
